@@ -1,3 +1,6 @@
-<h1>
-  Hello from index
-</h1>
+<?php
+
+require_once("../app/bootstrap.php");
+
+//init an object from the Core class
+$init = new Core;
