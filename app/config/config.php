@@ -1,4 +1,25 @@
 <?php
+//db params
+//define db host
+define(
+  "DBHOST",
+  "localhost" 
+);
+//define db username
+define(
+  "DBUSER",
+  "root"
+);
+//define db password
+define(
+  "DBPASSWORD",
+  "12345"
+);
+//define the db name
+define(
+  "DBNAME",
+  "php_mvc"
+);
 //define the root of app
 define(
   "APPROOT",
