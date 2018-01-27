@@ -8,7 +8,7 @@ define(
 //define db username
 define(
   "DBUSER",
-  "root"
+  "jose"
 );
 //define db password
 define(
