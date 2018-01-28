@@ -8,17 +8,17 @@ define(
 //define db username
 define(
   "DBUSER",
-  "jose"
+  "" //add your username
 );
 //define db password
 define(
   "DBPASSWORD",
-  "12345"
+  "" //add password for your mysql user
 );
 //define the db name
 define(
   "DBNAME",
-  "phpmvc"
+  "" //database name
 );
 //define the root of app
 define(
@@ -28,7 +28,7 @@ define(
 //set url
 define(
   "URLROOT",
-  "http://localhost/PHP_MVC"
+  "http://localhost/PHP_MVC" //make sure to add the correct url
 );
 //define the site name
 define(
