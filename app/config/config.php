@@ -18,7 +18,7 @@ define(
 //define the db name
 define(
   "DBNAME",
-  "php_mvc"
+  "phpmvc"
 );
 //define the root of app
 define(
